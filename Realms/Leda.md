@@ -1,6 +1,6 @@
 # Leda
 
-This realm is effected by [The Homeward Veil.md](../Concepts/The%20Homeward%20Veil.md)
+This realm is effected by [The Homeward Veil](../Concepts/The%20Homeward%20Veil.md)
 
 A realm where direction is meaningless—up can be down, north is south, and every path leads everywhere at once. Those who seek a way through are quickly lost, yet those who surrender their search often stumble upon exactly what they need.
 
@@ -8,4 +8,4 @@ Floating islands drift above an endless void. To fall is not to die, but to loop
 
 Time here is twisted. An hour in Leda is but a minute in Aefir, and the creatures that call it home all share one gift—wings, or some other means of flight—for without it, survival is fleeting.
 
-Legends whisper that when [The Circle.md](../Concepts/The%20Circle.md) and [The Storm.md](../Concepts/The%20Storm.md) were born, their first breath stirred in the shifting skies of Leda.
+Legends whisper that when [The Circle](../Concepts/The%20Circle.md) and [The Storm](../Concepts/The%20Storm.md) were born, their first breath stirred in the shifting skies of Leda.
