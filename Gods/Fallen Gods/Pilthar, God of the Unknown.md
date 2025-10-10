@@ -1,1 +1,3 @@
+# Pilthar, God of the Unknown
+
 Once worshiped as the patron of mystery and hidden truths, Pilthar grew restless when mortals began to fear uncertainty rather than revere it. He sought to cloak the world in endless shadow, where nothing could be known or trusted. The other gods, fearing the collapse of knowledge and order, cast him down to [[Abyra]]. Some ancient followers whisper that he lingers between realms, offering forbidden secrets to those desperate enough to seek him out. Present day, none worship this god

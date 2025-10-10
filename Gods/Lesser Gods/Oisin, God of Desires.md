@@ -1,1 +1,3 @@
+# Oisin, God of Desires
+
 Oisin is the god of longing, ambition, and temptation. He encourages mortals to chase what they yearn for, whether noble or corrupt. His presence is felt strongest in moments of weakness or ambition, when hearts waver. Though his followers often fall to ruin, they claim Oisin simply reveals what lies within.
