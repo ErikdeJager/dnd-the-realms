@@ -1,0 +1,1 @@
+Under the rule of [[Erdilluth, God of Rot]], the age of rot began

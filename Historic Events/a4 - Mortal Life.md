@@ -1,0 +1,2 @@
+[[Anvea, The Dormant God]] made the first human open its eyes in the world of [[Terra]]. Their existence made so that the sleeping god could experience the world for himself, he created thousands of humans in the blink of an eye.
+The humans populated [[Terra]] and prayed to the gods.

@@ -1,0 +1,2 @@
+A God said to calculate the fate of mortals. He creates prophecies and keeps them in his "book of fate's demand", a book he always carries with himself.
+Although his calculations and prophecies are rarely wrong, the fact that mortals have free will and true choice very rarely defy fate, causing prophecies to be denied.

@@ -1,0 +1,1 @@
+[[Erdilluth, God of Rot]] crowned as king has caused the lands to slowly die and rot. Mortals had to evolve into something new. The [[Vunin]] first appeared in this era of great unrest. They adapted to the harsh environments and were able to adapt to the harsh conditions thanks to their adaptive DNA

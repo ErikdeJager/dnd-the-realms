@@ -1,0 +1,1 @@
+Aberrations are alien entities, often with powers drawn from their minds.

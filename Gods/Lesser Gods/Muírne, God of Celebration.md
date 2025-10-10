@@ -1,0 +1,1 @@
+Muírne is the god of joy, festivals, and wine. He delights in mortal merriment, often disguising himself to join feasts. His blessings bring music, laughter, and vitality, but he punishes those who scorn joy with hollow emptiness. Some say he is present at every party or festive event. Many pray to Muírne to bless their event to prevent other mortals from ruining the vibe.
