@@ -1,6 +1,6 @@
 # Halfling
 
-**Creature Type:** [Humanoid.md](../Creature%20types/Humanoid.md)  
+**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
 **Size:** Small (about 2–3 feet tall)  
 **Speed:** 30 feet
 
