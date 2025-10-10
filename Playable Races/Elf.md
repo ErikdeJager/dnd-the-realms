@@ -2,16 +2,16 @@
 
 ## High Elves
 
-High elves have been infused with the magic of crossings between [Eromorra](../Realms/Eromorra.md) and [Aefir.md](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
+High elves have been infused with the magic of crossings between [Eromorra](../Realms/Eromorra.md) and [Aefir](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
 
 ## Dark Elves
 
-High elves have been infused with the magic of crossings between [Deracha.md](../Realms/Deracha.md) and [Aefir.md](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
+High elves have been infused with the magic of crossings between [Deracha](../Realms/Deracha.md) and [Aefir.md](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
 
 
 ## Traits
 
-**Creature Type:** [Humanoid.md](../Creature%20types/Humanoid.md)  
+**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
 **Size:** Medium (about 5–6 feet tall)  
 **Speed:** 30 feet
 
