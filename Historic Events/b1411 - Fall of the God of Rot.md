@@ -22,7 +22,7 @@ From the center of Aegis, a pillar of searing light erupted, tearing the sky wid
 
 The blade of Xiphos struck true. The energy was not mere fire or lightning but the unraveling of essence itself, a torrent of annihilation that pierced through Erdilluth’s divine form. His body twisted, shattered, and collapsed upon itself as the beam hurled his remains screaming into [Abyra.md](../Realms/Abyra.md), the realm where even gods are stripped of power and denied rebirth.
 
-The world shook with his death. The rot recoiled, retreating from soil and stone as if fleeing a cleansing flame. The curse that had plagued Terra all this time dissolved into silence. And as Erdilluth’s final scream faded, the heavens convulsed. From his broken corpse tumbled [The Aethern Crown.md](../Concepts/The%20Aethern%20Crown.md), loosed from his dominion, and with it the promise—and the threat—of war among the gods.
+The world shook with his death. The rot recoiled, retreating from soil and stone as if fleeing a cleansing flame. The curse that had plagued Aefir all this time dissolved into silence. And as Erdilluth’s final scream faded, the heavens convulsed. From his broken corpse tumbled [The Aethern Crown.md](../Concepts/The%20Aethern%20Crown.md), loosed from his dominion, and with it the promise—and the threat—of war among the gods.
 
 Close to when he fell, Erdilluth’s head cast off the shining [Aegis of Mortals.md](../Concepts/Aegis%20of%20Mortals.md), which plummeted like a comet and struck the world below, its light scattering like shards of stars across the earth.
 

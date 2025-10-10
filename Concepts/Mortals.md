@@ -1,6 +1,6 @@
 # Mortals
 
-A **mortal** is any being of [Terra.md](../Realms/Terra.md) (or other finite existence) that:
+A **mortal** is any being of [Aefir](../Realms/Aefir.md) (or other finite existence) that:
 
 - **Is born and dies** (has a finite lifespan).
 - **Can be killed** permanently, unlike gods or certain outsiders.
@@ -9,7 +9,7 @@ A **mortal** is any being of [Terra.md](../Realms/Terra.md) (or other finite exi
 Mortals are contrasted with:
 
 - **Deities (gods, divine beings)** — who are immortal and beyond natural death.
-- **[Dray.md](../Creature%20types/Dray.md), [Mero.md](../Creature%20types/Mero.md), [Lyks.md](../Creature%20types/Lyks.md), [Construct.md](../Creature%20types/Construct.md), [Aberration.md](../Creature%20types/Aberration.md), [Elemental.md](../Creature%20types/Elemental.md) and other eternal outsiders** — who may not age or die naturally, though they can often be destroyed or killed.
+- **[Dray](../Creature%20types/Dray.md), [Mero](../Creature%20types/Mero.md), [Lyks](../Creature%20types/Lyks.md), [Construct](../Creature%20types/Construct.md), [Aberration.md](../Creature%20types/Aberration.md), [Elemental.md](../Creature%20types/Elemental.md) and other eternal outsiders** — who may not age or die naturally, though they can often be destroyed or killed.
 - [Undead.md](../Creature%20types/Undead.md) — who were once mortal but no longer follow the natural cycle of life and death.
 
 

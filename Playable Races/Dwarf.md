@@ -1,6 +1,6 @@
 ## Traits
 
-**Creature Type:** [Humanoid.md](../Creature%20types/Humanoid.md)  
+**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
 **Size:** Medium (about 4–5 feet tall)  
 **Speed:** 30 feet
 

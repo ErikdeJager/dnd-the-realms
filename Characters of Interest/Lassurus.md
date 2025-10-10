@@ -1,3 +1,3 @@
 # Lassurus
 
-An Immortal Dray of the realm [Deracha.md](../Realms/Deracha.md)
+An Immortal Dray of the realm [Deracha](../Realms/Deracha.md)
