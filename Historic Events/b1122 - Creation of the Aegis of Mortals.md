@@ -16,4 +16,4 @@ With this artifact, Yik raised a shield against the rot. Where the Aegis shone, 
 
 People from across the dying world flocked to its gates. The city offered not only safety but hope—a promise of life amidst decay.
 
-But outside the realm of [Terra.md](../Realms/Terra.md), Erdilluth watched with hatred, and the God of Rot stirred.
+But outside the realm of [Aefir.md](../Realms/Aefir.md), Erdilluth watched with hatred, and the God of Rot stirred.

@@ -1,6 +1,6 @@
 # Mortals
 
-A **mortal** is any being of [Terra.md](../Realms/Terra.md) (or other finite existence) that:
+A **mortal** is any being of [Aefir.md](../Realms/Aefir.md) (or other finite existence) that:
 
 - **Is born and dies** (has a finite lifespan).
 - **Can be killed** permanently, unlike gods or certain outsiders.

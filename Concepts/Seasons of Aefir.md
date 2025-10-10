@@ -1,25 +1,25 @@
-# Seasons of Terra
+# Seasons of Aefir
 
-[Terra.md](../Realms/Terra.md) is a strange and pivotal realm, for all other realms are tethered to it. Because of this bond, time upon Terra does not always flow evenly—its passage waxes and wanes depending on which realm is most closely aligned at any given moment. Days may stretch unnaturally long, or slip away in a blink, echoing the pull of distant planes.
+[Aefir.md](../Realms/Aefir.md) is a strange and pivotal realm, for all other realms are tethered to it. Because of this bond, time upon Aefir does not always flow evenly—its passage waxes and wanes depending on which realm is most closely aligned at any given moment. Days may stretch unnaturally long, or slip away in a blink, echoing the pull of distant planes.
 
-Yet the mortals of Terra are not without resourcefulness. Through careful study of these shifting tides, they have devised their own methods of measuring time—systems that anchor their lives amidst the flux, even when the hours themselves rebel against certainty. This system will be explained below.
+Yet the mortals of Aefir are not without resourcefulness. Through careful study of these shifting tides, they have devised their own methods of measuring time—systems that anchor their lives amidst the flux, even when the hours themselves rebel against certainty. This system will be explained below.
 
 
 
 ---
 
-## Terra has two seasons per year
+## Aefir has two seasons per year
 
 1. Aubur
 2. Fadint
 
-Each season has its own natural properties, but these are always influenced by the other realms. At the start of a season, Terra aligns with one **Primary realm** and one **Secondary realm**. These alignments may change every season leading to wildly different yearly patterns. An entire year might be frozen under endless cold, or burned by unbroken sun.
+Each season has its own natural properties, but these are always influenced by the other realms. At the start of a season, Aefir aligns with one **Primary realm** and one **Secondary realm**. These alignments may change every season leading to wildly different yearly patterns. An entire year might be frozen under endless cold, or burned by unbroken sun.
 
 In between the two seasons there is the **"Realm Shift"**. This is a short transition period between seasons. Often with extreme, unpredictable and dangerous weather conditions. The Realm Shift season will only occur if the primary and secondary seasons of Aubur and Fadint are different.
 
 The final conditions of any season are a **mix** of:
 
-- Terra’s **seasonal property** (Aubur, Fadint or Realm Shift)
+- Aefir’s **seasonal property** (Aubur, Fadint or Realm Shift)
 - The traits of the **Primary** and **Secondary realms** in alignment.
 
 To determine the current season’s effects, first establish the aligned realms, then refer to the table.
@@ -77,26 +77,26 @@ Extremely short transition season but also more unpredictable and dangerous. All
 | Deracha  | Leda      | 22 / 34           | 2d8                    | 19h / 5h               | Dust storms carry across the land and harsh winds are common. These storms can suffocate and blind people                                                                                                                                                            |
 | Eromorra | Deracha   | 20 / 36           | 3d6                    | 2h / 22h               | Extremely short days, but during the night there are very bright lunar sky storms that light up the realm with dim light. Sometimes these storms crash down and cause a mist that blinds anyone within due to its bright lights                                      |
 | Eromorra | Hailra    | -4 / 16           | 2d12                   | 14h / 10h              | Magnetic storms occur that disrupt some constructs, devices and can slow down movement of creatures with a lot of metal                                                                                                                                              |
-| Eromorra | Leda      | 8 / 20            | 2d12                   | 10h / 14h              | Sometimes storms occur with voices of the circle colliding with Terra. These storms are deafening and sometimes people see loved ones in the storm and lose their way                                                                                                |
+| Eromorra | Leda      | 8 / 20            | 2d12                   | 10h / 14h              | Sometimes storms occur with voices of the circle colliding with Aefir. These storms are deafening and sometimes people see loved ones in the storm and lose their way                                                                                                |
 | Hailra   | Deracha   | 20 / 38           | 4d4                    | 12h / 12h              | Heavy monsoons rage unpredictably. Flash floods can drown villages overnight, and rivers change their courses violently.                                                                                                                                             |
 | Hailra   | Eromorra  | -33 / -16         | 1d4 + 1                | 24h (night)            | Entire world is covered with dark clouds. Constant lightning in the sky.                                                                                                                                                                                             |
-| Hailra   | Leda      | -19 / 1           | 6d6                    | 10h / 14h              | The shifting of Hailra and Leda, the closest realms to Terra, increase their pull. There is a small chance of Invisible gaps between worlds to pull creatures of Terra into the realm of Hailra. But often, [The Homeward Veil.md](The%20Homeward%20Veil.md) or death makes these visits short. |
+| Hailra   | Leda      | -19 / 1           | 6d6                    | 10h / 14h              | The shifting of Hailra and Leda, the closest realms to Aefir, increase their pull. There is a small chance of Invisible gaps between worlds to pull creatures of Aefir into the realm of Hailra. But often, [The Homeward Veil.md](The%20Homeward%20Veil.md) or death makes these visits short. |
 | Leda     | Deracha   | -42 / -32         | 3d6                    | 5h / 19h               | A constant snowdrift moves across the land, shifting dunes of snow that bury settlements. Creatures adapt by tunneling through the frozen waves                                                                                                                      |
 | Leda     | Eromorra  | -36 / -26         | 2d6                    | 5h / 19h               | Great hailstorms pierce the land, sometimes with shards as sharp as knives.                                                                                                                                                                                          |
-| Leda     | Hailra    | -24 / -14         | 4d10                   | 5h / 19h               | The shifting of Hailra and Leda, the closest realms to Terra, increase their pull. There is a small chance of Invisible gaps between worlds to pull creatures of Terra into the realm of Leda. But often, [The Homeward Veil.md](The%20Homeward%20Veil.md) or death makes these visits short.   |
+| Leda     | Hailra    | -24 / -14         | 4d10                   | 5h / 19h               | The shifting of Hailra and Leda, the closest realms to Aefir, increase their pull. There is a small chance of Invisible gaps between worlds to pull creatures of Aefir into the realm of Leda. But often, [The Homeward Veil.md](The%20Homeward%20Veil.md) or death makes these visits short.   |
 
 
 
 ---
 
 
-The smartest mortals of Terra have created a device called a **“Time Measurement Instrument”**, or **TMI** for short. The TMI is a clever invention used to measure time on Terra. It looks like a small circular metal box with a thin rod—called the _handle_—pointing straight up. On top sits a button, and pressing it sets the device into motion. Once started, the handle rotates smoothly around the face of the box, completing one full turn in exactly **six seconds**. Unlike Terra’s shifting time, the TMI always stays consistent, making it one of the most reliable tools ever built.
+The smartest mortals of Aefir have created a device called a **“Time Measurement Instrument”**, or **TMI** for short. The TMI is a clever invention used to measure time on Aefir. It looks like a small circular metal box with a thin rod—called the _handle_—pointing straight up. On top sits a button, and pressing it sets the device into motion. Once started, the handle rotates smoothly around the face of the box, completing one full turn in exactly **six seconds**. Unlike Aefir’s shifting time, the TMI always stays consistent, making it one of the most reliable tools ever built.
 
 The edge of the TMI is marked with small divisions, so the six-second turn can be broken down into smaller pieces of time. The simplest versions have twelve marks, each one showing half a second, while more advanced models have many more. Wizards use the device to pace their spellwork, alchemists to perfect their recipes, and soldiers to time maneuvers in battle. By counting rotations, users can also measure longer periods—ten turns for a minute, six hundred turns for an hour, and so on.
 
-Beyond its practical uses, the TMI has become a symbol of mortal cleverness. Even though Terra’s time may stretch or shrink under the influence of other realms, the TMI gives people a steady way to track the passing of moments. It is, in essence, a clock that always works—even when time itself doesn’t.
+Beyond its practical uses, the TMI has become a symbol of mortal cleverness. Even though Aefir’s time may stretch or shrink under the influence of other realms, the TMI gives people a steady way to track the passing of moments. It is, in essence, a clock that always works—even when time itself doesn’t.
 
-With the advent of the TMI, even the scholars of ancient times found new ways to study Terra’s unstable flow of hours and days. By combining the device’s precise six-second cycles with layers of complex calculations—far too dense and tedious to recount here—they were able to chart the rise and fall of seasons and even predict when time itself was most likely to stretch or contract. What was once unknowable chaos became a pattern that could be observed, if not always controlled, thanks to the humble TMI.
+With the advent of the TMI, even the scholars of ancient times found new ways to study Aefir’s unstable flow of hours and days. By combining the device’s precise six-second cycles with layers of complex calculations—far too dense and tedious to recount here—they were able to chart the rise and fall of seasons and even predict when time itself was most likely to stretch or contract. What was once unknowable chaos became a pattern that could be observed, if not always controlled, thanks to the humble TMI.
 
 ... is all this TMI?
 ... I didn't even mention the TLI machine yet
