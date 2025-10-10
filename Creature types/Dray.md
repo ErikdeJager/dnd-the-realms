@@ -1,3 +1,5 @@
+# Dray
+
 (Replaces Fiend)
 
-Dray are creatures native to [[Deracha]], and evil by nature.
+Dray are creatures native to [Deracha.md](../Realms/Deracha.md), and evil by nature.
