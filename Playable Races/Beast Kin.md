@@ -1,13 +1,14 @@
+# Beast Kin
 
 ## Traits
 
-**Creature Type:** [[Humanoid]]
-**Size:** Medium (about 4-6 feet tall)
-**Speed:** 30 feet
+**Creature Type:** [Humanoid.md](../Creature%20types/Humanoid.md)
+**Size:** Medium (about 4-6 feet tall)
+**Speed:** 30 feet
 
 
 #### Beast Speech
-You always have the [Speak with Animals](https://www.dndbeyond.com/spells/2619059-speak-with-animals) spell prepared
+You always have the [Speak with Animals](https://www.dndbeyond.com/spells/2619059-speak-with-animals) spell prepared
 
 #### Beast Ancestry
 Your blood is mixed with a common beast. Choose one of the beasts that you are descended from.

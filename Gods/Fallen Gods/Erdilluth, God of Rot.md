@@ -1,3 +1,5 @@
+# Erdilluth, God of Rot
+
 “Lord of Rot, Thou who art, who wast, and who yet shalt become.  
 Behold, Thou wert before the ancient slumber, and didst win the crown.  
 Even in decay and in death, Thou abidest eternal.  

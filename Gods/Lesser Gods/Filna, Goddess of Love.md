@@ -1,1 +1,3 @@
+# Filna, Goddess of Love
+
 Filna is love turned vile, a twisted hunger that consumes the soul. She whispers promises of eternal affection, but her “blessings” drive mortals to obsession so fierce they carve names into their flesh, mutilate themselves for affection, and murder rivals in her name. To her, rejection is the greatest sin—those who spurn her chosen are cursed with endless haunting by their own loved ones’ distorted faces. Her temples are lined with shrines of broken hearts and skeletons locked in embraces, rotting together for eternity. Filna does not grant love—she chains mortals to it until it devours them alive.

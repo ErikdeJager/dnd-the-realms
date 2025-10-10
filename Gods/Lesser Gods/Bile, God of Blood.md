@@ -1,1 +1,3 @@
+# Bile, God of Blood
+
 Bile is the river of crimson that never ceases, demanding that all veins flow for him. He whispers to mortals in the rhythm of their own pulse, urging them to open their skin and feed the ground. His altars are not carved stone but pits filled with coagulated gore, where worshippers drown themselves to be “reborn.” He delights not only in spilled blood but in the frenzy. He brings fathers tearing sons apart, lovers slitting each other’s throats in ecstasy. Bile does not grant blessings—only endless thirst for more blood.
