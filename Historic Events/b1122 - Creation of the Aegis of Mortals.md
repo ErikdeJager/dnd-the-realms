@@ -1,6 +1,6 @@
 # Creation of the Aegis of Mortals
 
-Dire circumstances. For over two thousand years, [Erdilluth, God of Rot.md](../Gods/Fallen%20Gods/Erdilluth%2C%20God%20of%20Rot.md), has reigned unchallenged, bringing decay to every corner of the world. Under his shadow, the lands withered, and mortals found no escape from suffering. Even immortality was denied them—sacrificed by [Zoses, Goddess of the Circle.md](../Gods/Fallen%20Gods/Zoses%2C%20Goddess%20of%20the%20Circle.md), who bound mortals to never ascend.
+Dire circumstances. For over two thousand years, [Erdilluth, God of Rot](../Gods/Fallen%20Gods/Erdilluth%2C%20God%20of%20Rot.md), has reigned unchallenged, bringing decay to every corner of the world. Under his shadow, the lands withered, and mortals found no escape from suffering. Even immortality was denied them—sacrificed by [Zoses, Goddess of the Circle](../Gods/Fallen%20Gods/Zoses%2C%20Goddess%20of%20the%20Circle.md), who bound mortals to never ascend.
 
 Yet the gods underestimated the resilience of mortals.
 

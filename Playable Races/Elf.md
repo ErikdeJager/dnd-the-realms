@@ -2,7 +2,7 @@
 
 ## High Elves
 
-High elves have been infused with the magic of crossings between [Eromorra.md](../Realms/Eromorra.md) and [Aefir.md](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
+High elves have been infused with the magic of crossings between [Eromorra](../Realms/Eromorra.md) and [Aefir.md](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
 
 ## Dark Elves
 
