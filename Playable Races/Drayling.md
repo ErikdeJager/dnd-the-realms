@@ -2,7 +2,7 @@
 
 (Replaces Tiefling)
 
-**Creature Type:** [Humanoid.md](../Creature%20types/Humanoid.md)  
+**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
 **Size:** Medium (about 4–7 feet tall) or Small (about 3–4 feet tall), chosen when you select this species  
 **Speed:** 30 feet
 
@@ -11,7 +11,7 @@ You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glo
 
 
 #### Dray Legacy
-The harsh conditions of [Deracha.md](../Realms/Deracha.md) grant you resistance to an elemental damage type of your choice.
+The harsh conditions of [Deracha](../Realms/Deracha.md) grant you resistance to an elemental damage type of your choice.
 (**Acid**, **Cold**, **Fire**, **Lightning**)
 
 
