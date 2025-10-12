@@ -16,3 +16,6 @@ From its slumber, Anvea dreams of the Six Realms, spreading through the depths o
 - [Leda](Realms/Leda.md)
 - [Aefir](Realms/Aefir.md)
 
+
+After the world's creation, time marched onwards. \
+Read about this world's history in the folder; [Historic Events](Historic%20Events)
