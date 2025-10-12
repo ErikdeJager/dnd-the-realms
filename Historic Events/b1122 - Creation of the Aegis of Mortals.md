@@ -10,7 +10,7 @@ At first, Yik was an outcast. The Vunin prized strength and ferocity, while Yik�
 
 In secret, Yik studied the arts of magic. He had no master, no scrolls, no tomes. His knowledge came from whispers—unseen voices that drifted into his mind, perhaps from a god?
 
-By the year 4640, Yik’s power had grown immense. He had learned to prolong his life and to craft artifacts of wondrous strength. Guided by the whispers, he embarked on his greatest work so far. The undertaking consumed countless resources, but the result was worth every sacrifice: the [Aegis of Mortals](../Concepts/Aegis%20of%20Mortals.md).
+By the year 1122, Yik’s power had grown immense. He had learned to prolong his life and to craft artifacts of wondrous strength. Guided by the whispers, he embarked on his greatest work so far. The undertaking consumed countless resources, but the result was worth every sacrifice: the [Aegis of Mortals](../Concepts/Aegis%20of%20Mortals.md).
 
 With this artifact, Yik raised a shield against the rot. Where the Aegis shone, the land flourished. And upon this blessed ground, he founded the first great city of the age: [Aegis](../Places%20of%20Interest/Aegis.md).
 
