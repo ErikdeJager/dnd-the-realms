@@ -1,6 +1,6 @@
 # The First God War
 
-As the gods opened their eyes, knowledge of the world flooded into their minds. The gods knew of the [The Aethern Crown](../Concepts/The%20Aethern%20Crown.md) and few ignored its cries.
+As the gods opened their eyes, knowledge of the world flooded into their minds. The gods knew of [The Aethern Crown](../Concepts/The%20Aethern%20Crown.md) and few ignored its cries.
 The first god war broke free, all realms were engulfed in its grasp. The gods created more mortal races to aid in their battles. Using humans and mixed that what was with that of the realms.
 
 Unlike, what was first a contest of strength, now the war became somewhat unpredictable, for the mortals had true choice and free will according to the [Rules of the Dream](../Concepts/Rules%20of%20the%20Dream.md).
