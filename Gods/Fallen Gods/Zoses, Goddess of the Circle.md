@@ -1,4 +1,5 @@
 # Zoses, Goddess of the Circle
 
-Zoses was once a goddess of eternal cycles, overseeing life, death, and rebirth. But she grew envious of mortals who broke free from fate through sheer will. In her fury, she used her very essence to rebind the [Rules of the Dream](../../Concepts/Rules%20of%20the%20Dream.md). With her life a final rule was added to the list; "Mortals must meet [The Circle](../../Concepts/The%20Circle.md)". It was only after this rule was added that [Anvea, The Dormant God](../Wondrous%20Gods/Anvea%2C%20The%20Dormant%20God.md) quickly shifted the dream into a new melody, creating another rule; "None can never change these rules."
-Zoses died, permanently. Creating what is now known [The Circle](../../Concepts/The%20Circle.md).
+Zoses was once a goddess of eternal cycles, overseeing life and rebirth. But she grew furious of mortals who broke free from fate through sheer will. 
+
+Read about it in [0989 - Circle sacrifice](../../Historic%20Events/2%20-%20Age%20of%20Rot/0989%20-%20Circle%20sacrifice.md)

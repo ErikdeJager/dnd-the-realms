@@ -4,7 +4,7 @@ Rules created by [Anvea, The Dormant God](../Gods/Wondrous%20Gods/Anvea%2C%20The
 
 These rules include but are not excluded to;
 
-1. None can never change these rules.
+1. None shall ever alter the rules of the dream.
 2. None may time travel or reverse time.
 3. Gods may never enter the realm [Aefir](../Realms/Aefir.md) directly, they must use an avatar instead.
 4. No realm may ever be truly destroyed and removed from existence. Destruction within the realm is accepted 

@@ -8,4 +8,4 @@ Floating islands drift above an endless void. To fall is not to die, but to loop
 
 Time here is twisted. An hour in Leda is but a minute in Aefir, and the creatures that call it home all share one gift—wings, or some other means of flight—for without it, survival is fleeting.
 
-Legends whisper that when [The Circle](../Concepts/The%20Circle.md) and [The Storm](../Concepts/The%20Storm.md) were born, their first breath stirred in the shifting skies of Leda.
+Legends whisper that this place represents the memory of [Anvea, The Dormant God](../Gods/Wondrous%20Gods/Anvea%2C%20The%20Dormant%20God.md) himself.
