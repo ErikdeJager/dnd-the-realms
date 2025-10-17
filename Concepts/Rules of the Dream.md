@@ -7,6 +7,6 @@ These rules include but are not excluded to;
 1. None shall ever alter the rules of the dream.
 2. None may time travel or reverse time.
 3. Gods may never enter the realm [Aefir](../Realms/Aefir.md) directly, they must use an avatar instead.
-4. No realm may ever be truly destroyed and removed from existence. Destruction within the realm is accepted 
+4. No realm may ever be truly destroyed and removed from existence. Destruction within the realm is accepted. 
 5. Mortals are not pawns; they have true choice and free will.
-6. Mortals must meet [The Circle](The%20Circle.md)
+6. Mortals must meet [the circle](The%20Circle.md) and cannot escape to immortality.
