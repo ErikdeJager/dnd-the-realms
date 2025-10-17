@@ -14,7 +14,7 @@ From its slumber, Anvea dreams of the Six Realms, spreading through the depths o
 - [Eromorra](Realms/Eromorra.md) - the hope of Anvea.
 - [Hailra](Realms/Hailra.md) - the emotion of Anvea.
 - [Leda](Realms/Leda.md) - the memory of Anvea.
-- [Aefir](Realms/Aefir.md) 
+- [Aefir](Realms/Aefir.md) - the world of mortals.
 
 
 After the world's creation, time marched onwards. \
