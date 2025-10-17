@@ -9,12 +9,12 @@ This creature’s name is [Anvea, The Dormant God](Gods/Wondrous%20Gods/Anvea%2C
 .
 From its slumber, Anvea dreams of the Six Realms, spreading through the depths of unconsciousness.
 
-- [Abyra](Realms/Abyra.md)
-- [Deracha](Realms/Deracha.md)
-- [Eromorra](Realms/Eromorra.md)
-- [Hailra](Realms/Hailra.md)
-- [Leda](Realms/Leda.md)
-- [Aefir](Realms/Aefir.md)
+- [Abyra](Realms/Abyra.md) - the outer edge of Anvea's mind.
+- [Deracha](Realms/Deracha.md) - the doubt of Anvea.
+- [Eromorra](Realms/Eromorra.md) - the hope of Anvea.
+- [Hailra](Realms/Hailra.md) - the emotion of Anvea.
+- [Leda](Realms/Leda.md) - the memory of Anvea.
+- [Aefir](Realms/Aefir.md) 
 
 
 After the world's creation, time marched onwards. \
