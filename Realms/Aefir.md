@@ -8,10 +8,10 @@ Here, dreams take root in soil, and emotion becomes rain, mountain, and flame. T
 
 Each mortal soul bears the faint imprint of the realms that shaped its spirit before birth:
 
-- From Hailra, passion and fear.
-- From Leda, curiosity and memory.
-- From Deracha, will and corruption.
-- From Eromorra, hope and faith.
+- From [Hailra](Hailra.md), passion and fear.
+- From [Leda](Leda.md), curiosity and memory.
+- From [Deracha](Deracha.md), will and corruption.
+- From [Eromorra](Eromorra.md), hope and faith.
 
 Yet in Aefir, these traits are no longer bound to divine mood—they become choice. For the first time in the god’s dream, thought may turn against its origin. Mortals may love in the shadow of despair, create in the midst of ruin, or defy even the rules of their making.
 
