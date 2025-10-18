@@ -16,6 +16,17 @@ The harsh conditions of [Deracha](../Realms/Deracha.md) grant you resistance to 
 
 
 #### Dray Endurance
-You gain 3d4 + 4 temporary hitpoints after long resting.
+You gain temporary hitpoints after long resting.
+
+
+| **Levels**        | **Temporary Hitpoints** |
+| ----------------- | ----------------------- |
+| 1 and 2           | 1d4 + 1                 |
+| 3, 4, 5 and 6     | 2d4 + 2                 |
+| 7, 8, 9 and 10    | 3d4 + 3                 |
+| 11, 12, 13 and 14 | 4d4 + 4                 |
+| 15+               | 5d4 + 5                 |
+
+
 
 
