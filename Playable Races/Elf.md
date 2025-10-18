@@ -8,6 +8,9 @@ High elves have been infused with the magic of crossings between [Eromorra](../R
 
 High elves have been infused with the magic of crossings between [Deracha](../Realms/Deracha.md) and [Aefir.md](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
 
+## Half Elf
+Half elves are the child of a human and elf. They inherit either dark elf or high elf traits from their parents, depending on what kind of elf its parent is.
+
 
 ## Traits
 
