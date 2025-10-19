@@ -1,6 +1,6 @@
 # Lyks
 
-(Replaces Fey)
+(Effected by Fey targeting)
 
+Lyks are creatures that are native to- or draw their power from [Abyra](../Realms/Abyra.md). Lyks are one of the rare species known to be able to exit the abyssal realm
 
-Lyks are creatures of magic with a connection to the abyss. They either live in the [Abyra](../Realms/Abyra.md) realm or draw their energy and power from this place.

@@ -1,10 +1,22 @@
 # Vunin
 
+Vunin are born of blood and conquest — a brutal fusion of humanoid and monster. Their reproduction is as savage as their nature: a male Vunin must hunt and slay a powerful creature — an [aberration](../Creature%20types/Aberration.md), [beast](../Creature%20types/Beast.md), or [monstrosity](../Creature%20types/Monstrosity.md)
+— and bring the carcass as a trophy to a female. If she deems the kill worthy, she allows him to fertilize her eggs, which she then lays within the corpse. There, the unborn Vunin feed upon the flesh of the slain creature, growing rapidly and inheriting fragments of its strength, instincts, or form. When they emerge, they do so from the torn remains of their first meal..
+
+Their appearance varies wildly depending on the creature that nurtured them: One might be marked with scaled skin that glints like stone, another with too-sharp eyes that catch every flicker of motion, or with sinewy limbs built for speed and the hunt. But no matter their origin, all Vunin share a humanoid form.
+
+Civilized societies often shun Vunin, branding them monsters or weapons to be used against greater threats. Yet even among themselves, Vunin have a rough sense of honor — respect for courage, defiance, and cleverness, no matter the form it takes. They are loud, proud, and relentless, ever seeking to prove that they are not mere beasts born from corpses — but the ultimate evolution of predator and man.
+
+
+## Life Span
+~80 years
+
+
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)
-**Size:** (Conditional, read origin)
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)
+- **Size:** (Conditional, read origin)
+- **Speed:** 30 feet
 
 As a Vunin, you have these special traits.
 
@@ -23,21 +35,3 @@ Discuss with the DM on what trait you gain.
 
 When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can’t do so again until you finish a Long Rest.
 
-
-
-
-## Origin
-
-A violent race of a half monster breed.
-A male Vunin defeats an [Aberration](../Creature%20types/Aberration.md), [Beast](../Creature%20types/Beast.md) or [Monstrosity](../Creature%20types/Monstrosity.md) and brings it to a female Vunin as a trophy. If the female is satisfied with the trophy, the male Vunin fertilizes the female Vunin's eggs, the female lays her eggs inside the slain carcass.
-The eggs hatch and start eating the carcass, growing in size rapidly. It takes on the traits of whatever creature it was hatched from but will always grow to have a [Humanoid](../Creature%20types/Humanoid.md) body.
-Size differs based on the carcass it was eating, but can be anywhere from 2 to 7 feet tall
-
-Female Vunin tend to prefer large and powerful trophies, a small Vunin is very rare.
-
-## Culture
-
-Vunin are a bloodthirsty and vicious species. The only way for them to reproduce is by slaying monsters, as a result the Vunin are not a common race to found in the realms. Cities and civilization tends to disregard them for their violent nature. Other cultures might reject them or see them as a nice "pest control".
-
-Vunin tend to be loud and present, wanting to prove their strength or wit.
-Vunin's class is often also determined by the carcass they were hatched in; A creature with great might will commonly result in the Vunin being a barbarian or fighter. Where if the creature has great intelligence it could become a wizard and act more civilized.

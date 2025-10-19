@@ -1,4 +1,6 @@
 # Elf
+Elves are beings of timeless grace and quiet power, shaped by the touch of the otherworldly realms. They move through life as though guided by music only they can hear — elegant, deliberate, and ever watchful.
+
 
 ## High Elves
 
@@ -8,14 +10,23 @@ High elves have been infused with the magic of crossings between [Eromorra](../R
 
 High elves have been infused with the magic of crossings between [Deracha](../Realms/Deracha.md) and [Aefir.md](../Realms/Aefir.md). Though it says nothing of their alignment, just their physical appearance and some traits
 
+## Half Elf
+Half elves are the child of a human and elf. They inherit either dark elf or high elf traits from their parents, depending on what kind of elf its parent is.
+
+
+## Life Span
+~600 years
+
+
 
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
-**Size:** Medium (about 5–6 feet tall)  
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
+- **Size:** Medium (about 5–6 feet tall)  
+- **Speed:** 30 feet
 
 As an Elf, you have these special traits.
+
 #### Darkvision
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
 #### Elf Ancestry
