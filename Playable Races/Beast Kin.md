@@ -1,5 +1,5 @@
 # Beast Kin
-
+Beast Kin are the bridge between the wild and the civilized — humanoids whose souls run with the instincts of beasts.Their animal lineage shows in their sharp senses, keen reflexes, or the subtle glint of a predator’s eye. Guided by instinct and tempered by intelligence, they are living proof that the line between man and beast is not so easily drawn.
 
 ## Life Span
 ~60 years

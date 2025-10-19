@@ -1,4 +1,7 @@
 # Drecean
+Drecean are the children of the deep — amphibious folk born where the waves kiss the shore. Dreceans embody the calm grace and hidden power of the tides. Their lives flow between two worlds: the boundless ocean depths and the fleeting beauty of the surface. Dreceans are natural explorers, sailors, and storytellers of the sea. Whether they dwell in coral citadels beneath the waves or walk the coasts among landfolk, they carry the rhythm of the ocean in their hearts.
+
+
 
 ## Life Span
 ~80 years on land \
@@ -11,7 +14,7 @@
 **Size:** Medium (about 4–5 feet tall)  
 **Speed:** 30 feet
 
-As a Dwarf, you have these special traits.
+As a Drecean, you have these special traits.
 
 #### Darkvision
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.

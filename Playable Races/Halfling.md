@@ -1,4 +1,7 @@
 # Halfling
+Halflings are the quiet heartbeat of the world — cheerful, clever folk whose courage often hides behind easy smiles and unassuming stature. They find joy in simple pleasures: a warm fire, a full plate, and good company. Yet beneath their gentle manners lies a spirit of surprising resolve.
+
+
 
 ## Life Span
 ~150 years

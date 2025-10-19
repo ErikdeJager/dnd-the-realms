@@ -1,4 +1,6 @@
 # Elf
+Elves are beings of timeless grace and quiet power, shaped by the touch of the otherworldly realms. They move through life as though guided by music only they can hear — elegant, deliberate, and ever watchful.
+
 
 ## High Elves
 

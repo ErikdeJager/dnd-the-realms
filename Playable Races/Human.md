@@ -1,4 +1,6 @@
 # Human
+Humans are the ever-changing force of the world — adaptable, ambitious, and endlessly driven. Where others see limits, humans see opportunity; where others cling to tradition, they forge new paths. As the first [mortals](../Concepts/Mortals.md) ever created, they are true pioneers
+
 
 ## Life Span
 ~80 years

@@ -1,4 +1,6 @@
 # Dwarf
+Dwarves are the steadfast heart of the mountains — a people of unshakable resolve, deep tradition, and unmatched craftsmanship. Though short in stature, their endurance and willpower tower over hardship. Whether delving deep into ancient halls, raising mighty fortresses, or standing firm on the front lines of battle, Dwarves embody the unyielding spirit of the mountains themselves.
+
 
 ## Life Span
 ~350 years
