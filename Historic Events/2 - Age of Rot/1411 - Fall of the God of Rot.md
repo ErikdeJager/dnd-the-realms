@@ -16,8 +16,6 @@ In an instant, tens of thousands vanished. They were not burned, nor broken, nor
 
 Azure light spread through the veins of Aegis, glowing in cracks between stones, in carvings long unnoticed, in windows and arches and walls. Sparks of blue drifted upward into the sky, and as the heavens split open, the stars themselves seemed to peel away. Beyond them, vast and dreadful, appeared the face of [Erdilluth, God of Rot](../../Gods/Fallen%20Gods/Erdilluth,%20God%20of%20Rot.md).
 
-Xiphos roared.
-
 From the center of Aegis, a pillar of searing light erupted, tearing the sky wide as thunder like the breaking of worlds shook the land. Chains of radiant energy lashed outward, seizing Erdilluth, dragging his immense and decayed form downward into the weapon’s grasp. The god bellowed, his voice a wave that shook mountains and churned seas, but he could not break free. Bound fast, he was forced into the path of the beam.
 
 The blade of Xiphos struck true. The energy was not mere fire or lightning but the unraveling of essence itself, a torrent of annihilation that pierced through Erdilluth’s divine form. His body twisted, shattered, and collapsed upon itself as the beam hurled his remains screaming into [Abyra](../../Realms/Abyra.md), the realm where even gods are stripped of power and denied rebirth.
