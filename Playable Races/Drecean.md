@@ -10,9 +10,9 @@ Drecean are the children of the deep — amphibious folk born where the waves ki
 
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
-**Size:** Medium (about 4–5 feet tall)  
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
+- **Size:** Medium (about 4–5 feet tall)  
+- **Speed:** 30 feet
 
 As a Drecean, you have these special traits.
 

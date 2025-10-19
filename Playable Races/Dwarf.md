@@ -8,9 +8,9 @@ Dwarves are the steadfast heart of the mountains — a people of unshakable reso
 
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
-**Size:** Medium (about 4–5 feet tall)  
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
+- **Size:** Medium (about 4–5 feet tall)  
+- **Speed:** 30 feet
 
 As a Dwarf, you have these special traits.
 

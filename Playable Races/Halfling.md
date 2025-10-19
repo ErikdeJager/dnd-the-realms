@@ -9,9 +9,9 @@ Halflings are the quiet heartbeat of the world — cheerful, clever folk whose c
 
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
-**Size:** Small (about 2–3 feet tall)  
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
+- **Size:** Small (about 2–3 feet tall)  
+- **Speed:** 30 feet
 
 As a Halfling, you have these special traits.
 

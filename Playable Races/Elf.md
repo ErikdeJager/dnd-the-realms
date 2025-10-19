@@ -21,11 +21,12 @@ Half elves are the child of a human and elf. They inherit either dark elf or hig
 
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
-**Size:** Medium (about 5–6 feet tall)  
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
+- **Size:** Medium (about 5–6 feet tall)  
+- **Speed:** 30 feet
 
 As an Elf, you have these special traits.
+
 #### Darkvision
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
 #### Elf Ancestry

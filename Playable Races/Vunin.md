@@ -14,9 +14,9 @@ Civilized societies often shun Vunin, branding them monsters or weapons to be us
 
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)
-**Size:** (Conditional, read origin)
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)
+- **Size:** (Conditional, read origin)
+- **Speed:** 30 feet
 
 As a Vunin, you have these special traits.
 

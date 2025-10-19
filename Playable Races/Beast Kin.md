@@ -7,10 +7,11 @@ Beast Kin are the bridge between the wild and the civilized — humanoids whose 
 
 ## Traits
 
-**Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)
-**Size:** Medium (about 4-6 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)
+- **Size:** Medium (about 4-6 feet tall)
+- **Speed:** 30 feet
 
+As a Beast Kin, you have these special traits.
 
 #### Beast Speech
 You always have the [Speak with Animals](https://www.dndbeyond.com/spells/2619059-speak-with-animals) spell prepared
