@@ -12,6 +12,11 @@ High elves have been infused with the magic of crossings between [Deracha](../Re
 Half elves are the child of a human and elf. They inherit either dark elf or high elf traits from their parents, depending on what kind of elf its parent is.
 
 
+## Life Span
+~600 years
+
+
+
 ## Traits
 
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  

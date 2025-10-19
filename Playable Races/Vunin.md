@@ -1,5 +1,10 @@
 # Vunin
 
+
+## Life Span
+~80 years
+
+
 ## Traits
 
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)

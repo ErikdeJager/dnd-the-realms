@@ -1,5 +1,11 @@
 # Drayling
 
+## Life Span
+~120 years
+
+
+## Traits
+
 (Replaces Tiefling)
 
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  

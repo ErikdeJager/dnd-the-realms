@@ -1,5 +1,11 @@
 # Human
 
+## Life Span
+~80 years
+
+
+## Traits
+
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species  
 **Speed:** 30 feet

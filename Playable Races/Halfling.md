@@ -1,5 +1,11 @@
 # Halfling
 
+## Life Span
+~150 years
+
+
+## Traits
+
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
 **Size:** Small (about 2–3 feet tall)  
 **Speed:** 30 feet

@@ -1,3 +1,9 @@
+# Dwarf
+
+## Life Span
+~350 years
+
+
 ## Traits
 
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  

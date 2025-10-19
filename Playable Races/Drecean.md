@@ -1,5 +1,12 @@
 # Drecean
 
+## Life Span
+~80 years on land \
+~250 years in water
+
+
+## Traits
+
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)  
 **Size:** Medium (about 4–5 feet tall)  
 **Speed:** 30 feet

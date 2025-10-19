@@ -1,5 +1,10 @@
 # Beast Kin
 
+
+## Life Span
+~60 years
+
+
 ## Traits
 
 **Creature Type:** [Humanoid](../Creature%20types/Humanoid.md)
