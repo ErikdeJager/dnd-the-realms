@@ -10,4 +10,4 @@ The early attempts were ruinous. Mortals melted into the ground or screamed unti
 
 More survived after her. Dozens. Hundreds. None the same. But they were still mortal, still doomed to die and meet the circle.
 
-The mortals captured by [Lassurus](../../Characters%20of%20Interest/Lassurus.md) broke free and [started a revolution.](0416%20-%20Fall%20of%20the%20Citadel.md)
+The mortals captured by [Lassurus](../../Characters%20of%20Interest/Lassurus.md) broke free and [started a revolution.](0416%20-%20Drayling%20return%20to%20Aefir.md)
