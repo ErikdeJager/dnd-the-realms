@@ -1,4 +1,8 @@
 # Drayling
+Forged from the cruel experiments conducted by [Lassurus](../Characters%20of%20Interest/Lassurus.md), the Drayling are beings caught between mortality and the essence of [Deracha](../Realms/Deracha.md). Once human, they were reshaped by the corruption of that realm.
+
+_Meta: They look exactly like tieflings_
+
 
 ## Life Span
 ~120 years

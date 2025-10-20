@@ -9,8 +9,6 @@
 
 ## Todo
 
-- Dray Lore
-- Lassurus
 - Mero Lore
 - History in Age of Mortals
 - Write The Aethern Crown
@@ -24,4 +22,3 @@
 - World map
 - Races;
   - Emsii
-  - Drayling
