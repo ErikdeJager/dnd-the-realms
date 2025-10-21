@@ -14,7 +14,6 @@
   - Ehtia
   - Imlot
   - Irra
-  - Mizohr
 - Write Misle
 - World map
 - Races;
