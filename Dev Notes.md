@@ -11,8 +11,6 @@
 
 - History in Age of Mortals
 - Write gods;
-  - Ehtia
-  - Imlot
   - Irra
 - Write Misle
 - World map
