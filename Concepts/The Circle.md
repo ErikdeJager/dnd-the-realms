@@ -12,3 +12,8 @@ If we heavily summarize the character traits these realms could possible give to
 - From [Leda](../Realms/Leda.md), curiosity and loyalty.
 - From [Deracha](../Realms/Deracha.md), will and corruption.
 - From [Eromorra](../Realms/Eromorra.md), hope and faith.
+
+
+More lore about the circle can be found here:
+- [0989 - Circle sacrifice](../Historic%20Events/2%20-%20Age%20of%20Rot/0989%20-%20Circle%20sacrifice.md)
+- [Zoses, Goddess of the Circle](../Gods/Fallen%20Gods/Zoses%2C%20Goddess%20of%20the%20Circle.md)

@@ -11,7 +11,6 @@
 
 - Mero Lore
 - History in Age of Mortals
-- Write The Circle
 - Write gods;
   - Ehtia
   - Imlot
