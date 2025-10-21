@@ -9,7 +9,6 @@
 
 ## Todo
 
-- Mero Lore
 - History in Age of Mortals
 - Write gods;
   - Ehtia
