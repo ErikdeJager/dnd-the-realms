@@ -3,4 +3,4 @@
 (Effected by Celestial targeting)
 
 
-Celestials are creatures native to [Eromorra](../Realms/Eromorra.md), and good by nature.
+Mero are creatures native to [Eromorra](../Realms/Eromorra.md), and generally good by nature.
