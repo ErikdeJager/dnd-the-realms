@@ -27,3 +27,11 @@ And so the world of Aefir spins within the veil, surrounded by the higher realms
 Time is measured differently, check out [Seasons of Aefir](../Concepts/Seasons%20of%20Aefir.md) for more information
 
 Or for more history about the world, check out the [Historic Events](../Historic%20Events)
+
+Continents
+- Izea
+- Fesl
+- Eotia
+- Dopora
+- Vesin
+- Verix
